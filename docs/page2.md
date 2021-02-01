@@ -6,8 +6,8 @@ nav_order: 2
 
 ## *My equation*
 
-&sigma; = 2&pi;<sup>5</sup>*k*<sup>4</sup>/15*c*<sup>2</sup>*h*<sup>3</sup>
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 ## *My sentence*
 
-This symbol is the mathematical represerntion for alpha: &alpha. 
+This symbol is the mathematical represerntion for alpha: &alpha;. 
